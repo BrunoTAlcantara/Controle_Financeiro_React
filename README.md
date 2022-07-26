@@ -1,4 +1,4 @@
-# Controle Financeiro Crud em React JS
+# Controle Financeiro - Crud em React JS
 
 
 <p align="center">
